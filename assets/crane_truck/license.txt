@@ -1,0 +1,11 @@
+Model Information:
+* title:	Crane Truck
+* source:	https://sketchfab.com/3d-models/crane-truck-75bd7e96c0c74f18be8ff074cf6a7009
+* author:	Ravi_teja_rajput (https://sketchfab.com/Ravi_teja_rajput)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Crane Truck" (https://sketchfab.com/3d-models/crane-truck-75bd7e96c0c74f18be8ff074cf6a7009) by Ravi_teja_rajput (https://sketchfab.com/Ravi_teja_rajput) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
